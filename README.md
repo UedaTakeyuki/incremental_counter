@@ -2,7 +2,7 @@
 Incremental Counter
 
 ```python:
->>> import counter
+>>> from incremental_counter import counter
 >>> c = counter.Counter("/tmp/counter.txt")
 >>> c.current()
 0
