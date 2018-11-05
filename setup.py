@@ -14,7 +14,7 @@ setup(
   author = 'Takeyuki UEDA',
   author_email = 'gde00107@nifty.com',
   license='MIT',
-  url = 'https://github.com/UedaTakeyuki/incremental-counter/tree/master', # use the URL to the github repo
+  url = 'https://github.com/UedaTakeyuki/incremental_counter', # use the URL to the github repo
   keywords = ['sensor', 'IoT'], # arbitrary keywords
   classifiers = ['Development Status :: 4 - Beta',
                  'Programming Language :: Python',
