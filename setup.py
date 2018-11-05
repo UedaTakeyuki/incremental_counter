@@ -7,7 +7,7 @@ with open("README.md") as f:
 setup(
   name = 'incremental_counter',
   packages = ['incremental_counter'], # this must be the same as the name above
-  version = '0.1.1',
+  version = '0.1.2',
   description = 'Incremental Counter',
   long_description=long_description,
   long_description_content_type="text/markdown",
