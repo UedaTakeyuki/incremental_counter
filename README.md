@@ -25,3 +25,7 @@ Incremental Counter
 >>> c.dec()
 0
 ```
+
+## history
+- 0.1.1  2018.11.03  first version
+- 0.1.3  2018.11.07  remove redundant class
