@@ -2,8 +2,8 @@
 Incremental Counter
 
 ```python:
->>> from incremental_counter import counter
->>> c = counter.Counter("/tmp/counter.txt")
+>>> from incremental_counter import Counter
+>>> c = Counter("/tmp/counter.txt")
 >>> c.current()
 0
 >>> c.inc()
