@@ -1,5 +1,5 @@
 # incremental-counter
-Incremental Counter
+Persistent Incremental Counter based on the counter file.
 
 ```python:
 >>> from incremental_counter import Counter
